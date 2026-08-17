@@ -1,0 +1,17 @@
+# Default owner for everything
+* @gerardo-lopez-dev
+
+# Domain logic
+/internal/domain/ @gerardo-lopez-dev
+
+# Application layer
+/internal/application/ @gerardo-lopez-dev
+
+# Adapters
+/internal/adapters/ @gerardo-lopez-dev
+
+# Infrastructure
+/internal/infrastructure/ @gerardo-lopez-dev
+
+# Server entry point
+/cmd/ @gerardo-lopez-dev

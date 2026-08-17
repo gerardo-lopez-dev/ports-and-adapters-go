@@ -1,0 +1,43 @@
+# Binarios
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/server
+
+# Test binarios
+*.test
+
+# Output of go coverage
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Dependencias
+vendor/
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Build
+/bin/
+/build/
+/dist/
